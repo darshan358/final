@@ -1,0 +1,8 @@
+[project]
+name = "btc-vanity"
+version = "0.1.0"
+description = "Parallel BTC vanity generator with optional CUDA"
+requires-python = ">=3.10"
+
+[project.scripts]
+btc-vanity = "btc_vanity.cli:main"
