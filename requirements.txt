@@ -1,0 +1,7 @@
+bip-utils==2.9.3
+mnemonic==0.20
+numpy==1.26.4
+click==8.1.7
+tqdm==4.66.5
+psutil==5.9.8
+base58==2.1.1
