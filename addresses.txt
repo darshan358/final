@@ -1,0 +1,2 @@
+# One address per line. Example mainnet Bech32:
+# bc1qw508d6qejxtdg4y5r3zarvary0c5xw7k6l8tn5
