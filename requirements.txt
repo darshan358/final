@@ -1,0 +1,11 @@
+mnemonic==0.20
+ecdsa==0.18.0
+base58==2.1.1
+hashlib-additional==1.0.1
+pycuda==2022.2.2
+numpy==1.24.3
+bit==0.8.0
+coincurve==18.0.0
+multiprocessing-logging==0.3.4
+tqdm==4.66.1
+colorama==0.4.6
