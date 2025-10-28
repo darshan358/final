@@ -1,0 +1,9 @@
+bip-utils==2.9.3
+mnemonic==0.20
+cryptography>=42.0.0
+base58>=2.1.1
+numba>=0.59
+numpy>=1.26
+psutil>=5.9
+rich>=13.7
+click>=8.1
